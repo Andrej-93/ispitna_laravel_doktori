@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/resources/views/create-appointment.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/create-doctor.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/doctor.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/edit-appointment.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/edit-doctor.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/show-appointment.blade.php" charset="UTF-8" />
+  </component>
+</project>
